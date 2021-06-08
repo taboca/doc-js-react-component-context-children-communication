@@ -1,4 +1,4 @@
-# Introduction
+# Study notes - React using the Context API  
 
 This is a simple application created with "create-react-app". It was initiated with the following execution:
 
